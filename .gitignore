@@ -1,0 +1,28 @@
+# Raw footage and renders — too large for git, keep local or in cloud storage
+raw/
+**/renders/
+**/renders-draft/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+
+# Whisper model cache
+*.bin
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hyperframes build artifacts
+**/dist/
+**/frames/
