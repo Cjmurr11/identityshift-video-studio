@@ -27,8 +27,8 @@ The logo splits the wordmark: "Identity" white/light + "**Shift**" in accent ora
 - "Identity" — light weight
 - "Shift" — bold, accent orange (#FFB000)
 - ".io" — light weight
-- Dark version (white on black): `brand/assets/logo-dark.png`
-- Light version (dark on white): `brand/assets/logo-light.png`
+- Dark version (white on black): `brand/assets/IdentityShift Logo Black Background InterFont.png`
+- Light version (dark on white): `brand/assets/IdentityShift Logo White Background InterFont.png`
 
 ## Visual Style
 
