@@ -4,6 +4,21 @@ This workspace is a full video post-production pipeline: raw footage → filler 
 
 ---
 
+## Brand (always apply to every video)
+
+Full reference: [`brand/brand.md`](brand/brand.md) — read before starting any composition.
+
+| | |
+|---|---|
+| **Background** | `#0B0B0D` (dark primary) / `#FFFFFF` (alt) |
+| **Accent** | `#FFB000 → #FF8A00` gradient — use sparingly |
+| **Font** | Inter (400/600/700/800) |
+| **Logo** | `brand/assets/logo-dark.png` / `logo-light.png` |
+| **Motion tone** | smooth/dramatic — never bouncy |
+| **Voice** | Smart. Direct. Slightly contrarian. No fluff. |
+
+---
+
 ## Pipeline Overview
 
 ```

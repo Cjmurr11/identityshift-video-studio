@@ -1,0 +1,18 @@
+/* IdentityShift.io — Brand Colors */
+:root {
+  --color-black:        #0B0B0D;
+  --color-white:        #FFFFFF;
+  --color-gray-light:   #F7F7F8;
+  --color-accent:       #FFB000;
+  --color-accent-dark:  #FF8A00;
+
+  /* Gradient shorthand for GSAP / CSS use */
+  --gradient-accent: linear-gradient(135deg, #FFB000, #FF8A00);
+
+  /* Semantic aliases */
+  --color-bg:           #0B0B0D;   /* default dark background */
+  --color-bg-alt:       #FFFFFF;   /* alternating light section */
+  --color-text:         #FFFFFF;
+  --color-text-dark:    #0B0B0D;
+  --color-highlight:    #FFB000;   /* use sparingly — key actions only */
+}
